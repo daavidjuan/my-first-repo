@@ -5,3 +5,5 @@ NPM : 2306221913
 Kelas : PBP B
 
 Hobi : Main
+
+Jurusan : Sistem Informasi
